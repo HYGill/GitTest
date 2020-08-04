@@ -5,5 +5,3 @@
 - git status : 현재 저장소의 어떤 브랜치에서 작업하고 있는지 알 수 있다
 - git commit : 로컬 저장소에 올리는 것
 - git fetch : pull은 병합하는 것이고 이 명령어는 합치지 않고 전단계
-- git pull : fetch + merge
-- git stash : commit 여러번 한 것을 하나로 merge 해서 push 해줌
